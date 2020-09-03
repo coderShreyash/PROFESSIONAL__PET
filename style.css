@@ -1,0 +1,10 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas{
+  border: 20px solid red;
+  margin-top: 5px;
+  margin-left: 50px;
+  background: linear-gradient(red,blue);
+}
